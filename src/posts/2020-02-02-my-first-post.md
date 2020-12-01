@@ -1,19 +1,11 @@
 ---
-title: 'My first post'
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+title: 'Postingan Pertama'
+description: Cuma contoh aja, jadi jangan anggap serius.
 date: 2020-02-02T00:00:00Z
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Ini deskripsi, cuma contoh. Bingung juga mau nulis apa...
 
-Example with image:
+Gambar Disini broh:
 
 ![Error](/assets/images/posts/error.png)
-
-Example code block:
-
-```js
-function myFunction() {
-  return true;
-}
-```
